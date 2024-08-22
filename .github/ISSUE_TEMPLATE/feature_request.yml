@@ -5,9 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to request this feature! If your feature request is complex or substantial enough to warrant in-depth discussion, maintainers may close the issue and ask you to open an [RFC](https://github.com/sveltejs/rfcs).
-  - type: textarea
-    id: problem
+        Thanks for taking the time to request this feature!
     attributes:
       label: Describe the problem
       description: Please provide a clear and concise description the problem this feature would solve. The more information you can provide here, the better.
