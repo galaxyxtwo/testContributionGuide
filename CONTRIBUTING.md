@@ -22,10 +22,13 @@ Open an Issue: We ask community members to comment on an issue if they would lik
 
 ### Open an issue
 
-When you open a issue, you will be presented with an option to open a feature request or report a bug. Please do your best to fill out the details, but feel free to skip parts if you're not sure how to answer.
+When you open a issue, you will be presented with an option to open a feature request or report a bug. Select the appropriate option, and you will be provided with a template to fill in. Please do your best to fill out the details, but feel free to skip parts if you're not sure how to answer.
 
-- Ask for more information if you believe your issue does not provide all the details required to solve it.
-- Flag existing issues that are stale or that should be closed.
+For bug reports, the most important information is a description of the behavior you are seeing and a test case to help us reproduce the behavior. If we are unable to reproduce the bug, we may ask for additional details to help us reproduce.
+
+Feature requests should include a detailed description of the proposed feature and an explanation of how it will benefit the project. We will consider feature requests in the broader context of the project to determine whether we would like to add them.
+
+Some changes like docs updates and typo fixes do not require an issue. Feel free to submit a pull request directly for these changes.
 
 ### Claim an issue
 
