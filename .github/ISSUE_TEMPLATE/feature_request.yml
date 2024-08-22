@@ -11,7 +11,7 @@ body:
     attributes:
       label: Describe the problem
       description: Please provide a clear and concise description the problem this feature would solve. The more information you can provide here, the better.
-      placeholder: I'm always frustrated when...
+      placeholder: I'm frustrated when...
     validations:
       required: true
   - type: textarea
@@ -28,8 +28,8 @@ body:
       label: Importance
       description: How important is this feature to you?
       options:
-        - nice to have
-        - would make my life easier
+        - Nice to have
+        - Would make my life easier
         - I cannot use Lilypad without it
     validations:
       required: true

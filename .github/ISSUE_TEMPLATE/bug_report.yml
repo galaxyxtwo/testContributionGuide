@@ -10,7 +10,7 @@ body:
     id: bug-description
     attributes:
       label: Describe the bug
-      description: A clear and concise description of what the bug is. If you intend to submit a PR for this issue, tell us in the description. Thanks!
+      description: A clear and concise description of the bug. If you intend to submit a pull request for this issue, tell us in the description. Thanks!
       placeholder: Bug description
     validations:
       required: true
@@ -18,7 +18,7 @@ body:
     id: reproduction
     attributes:
       label: Reproduction
-      description: Please provide a link to a repo that can reproduce the problem you ran into. If a report is vague (e.g. just a generic error message) and has no reproduction, it will potentially take more time for the Lilypad team to triage the report. If no reproduction is provided within a reasonable time-frame, the issue will be closed.
+      description: Please provide instructions for reproducing the bug. If the report is vague and has no reproduction, it may take the Lilypad team time to triage the issue. We may ask you for more details or close the issue if we cannot reproduce.
       placeholder: Reproduction
     validations:
       required: true
@@ -26,21 +26,20 @@ body:
     id: logs
     attributes:
       label: Logs
-      description: 'Please include browser console and server logs around the time this bug occurred. Optional if provided reproduction. Please try not to insert an image but copy paste the log text.'
+      description: Please include logs around the time this bug occurred. Skip this section if logs are included in the reproduction. Please do not insert an image of logs, but instead copy-paste the log text.
       render: shell
   - type: textarea
     id: Screenshots
     attributes:
       label: Screenshots
-      description: 'Please include screenshots of any info that is relevant to this issue.'
+      description: Please include screenshots of info that is relevant to this issue.
       render: shell
   - type: textarea
     id: system-info
     attributes:
       label: System Info
-      description: Please provide more details about the hardware and software (Lilypad Version, OS and version) used in the RP system (if bug report is related to a Resource Provider problem)
+      description: Please provide details about the hardware and software (Lilypad Version, OS, OS version, Architecture) in use when the bug occured. Resource providers should also include Bacalhau version and GPU information.
       render: shell
-      placeholder: System, Binaries, Browsers
     validations:
       required: true
   - type: dropdown
@@ -49,8 +48,8 @@ body:
       label: Severity
       description: Select the severity of this issue
       options:
-        - annoyance
-        - blocking an upgrade
-        - blocking all usage of Lilypad
+        - Annoyance
+        - Blocking an upgrade
+        - Blocking all Lilypad usage
     validations:
       required: true
