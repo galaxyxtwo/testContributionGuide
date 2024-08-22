@@ -2,7 +2,9 @@
 
 Thanks for your interest in contributing to the Lilypad Network! Welcome, we are happy to have you. 🐸 💚
 
-This guide will help you get started with contributing to the Lilypad network. There are a variety of ways to get involved in the network! Feel free to contact our team through the [Lilypad Discord](https://lilypad.team/discord) to bring up problems and ask questions. In order to bring up or help solve a bug, contact our team or open a GitHub issue. Our team will review the issue, look to see if the work is already in progress, and then finalize whether or not this PR should be merged.
+This guide will help you get started with contributing to the Lilypad network. There are a variety of ways to get involved in the network! Feel free to contact our team through the [Lilypad Discord](https://lilypad.team/discord) to bring up problems and ask questions. 
+
+In order to bring up or help solve a bug, contact our team or open a GitHub issue. Our team will review the issue, look to see if the work is already in progress, and then finalize whether or not this PR should be merged.
 
 This guide will help you get started with contributing to the Lilypad network. There are many ways to get contribute in the network, including contacting us about bugs on Discord, opening or triaging issues, or submitting a pull request to address an issue.
 
