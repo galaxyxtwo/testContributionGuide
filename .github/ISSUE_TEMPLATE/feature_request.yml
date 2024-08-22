@@ -1,5 +1,5 @@
 name: 'Feature Request'
-description: Request a new Svelte feature
+description: Request a new Lilypad feature
 labels: [enhancement]
 body:
   - type: markdown
@@ -30,6 +30,6 @@ body:
       options:
         - nice to have
         - would make my life easier
-        - i cannot use svelte without it
+        - i cannot use Lilypad without it
     validations:
       required: true
