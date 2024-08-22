@@ -121,5 +121,3 @@ If you submit a new issue requesting a feature or reporting a bug, please indica
 # License
 
 The Lilypad Network is an open source project under an [Apache 2.0 license](https://github.com/Lilypad-Tech/lilypad/blob/main/LICENSE).
-
-Read more about the Lilypad Network is the [docs:](https://docs.lilypad.tech/lilypad)
