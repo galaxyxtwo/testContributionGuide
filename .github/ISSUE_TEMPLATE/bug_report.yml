@@ -1,5 +1,5 @@
 name: "\U0001F41E Bug report"
-description: Report an issue with Svelte
+description: Report an issue with Lilypad
 labels: ['triage: bug']
 body:
   - type: markdown
@@ -45,6 +45,6 @@ body:
       options:
         - annoyance
         - blocking an upgrade
-        - blocking all usage of svelte
+        - blocking all usage of Lilypad
     validations:
       required: true
