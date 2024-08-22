@@ -18,7 +18,7 @@ body:
     id: reproduction
     attributes:
       label: Reproduction
-      description: Please provide a link to a repo or REPL that can reproduce the problem you ran into. If a report is vague (e.g. just a generic error message) and has no reproduction, it will receive a "need reproduction" label. If no reproduction is provided within a reasonable time-frame, the issue will be closed.
+      description: Please provide a link to a repo that can reproduce the problem you ran into. If a report is vague (e.g. just a generic error message) and has no reproduction, it will potentially take more time for the Lilypad team to triage the report. If no reproduction is provided within a reasonable time-frame, the issue will be closed.
       placeholder: Reproduction
     validations:
       required: true
@@ -32,7 +32,7 @@ body:
     id: system-info
     attributes:
       label: System Info
-      description: Output of `npx envinfo --system --npmPackages svelte,rollup,webpack --binaries --browsers`
+      description: Please provide more details about the hardware and software used in the RP system (if bug report is related to a Resource Provider problem)
       render: shell
       placeholder: System, Binaries, Browsers
     validations:
