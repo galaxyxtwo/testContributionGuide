@@ -29,10 +29,16 @@ body:
       description: 'Please include browser console and server logs around the time this bug occurred. Optional if provided reproduction. Please try not to insert an image but copy paste the log text.'
       render: shell
   - type: textarea
+    id: Screenshots
+    attributes:
+      label: Screenshots
+      description: 'Please include screenshots of any info that is relevant to this issue.'
+      render: shell
+  - type: textarea
     id: system-info
     attributes:
       label: System Info
-      description: Please provide more details about the hardware and software used in the RP system (if bug report is related to a Resource Provider problem)
+      description: Please provide more details about the hardware and software (Lilypad Version, OS and version) used in the RP system (if bug report is related to a Resource Provider problem)
       render: shell
       placeholder: System, Binaries, Browsers
     validations:
