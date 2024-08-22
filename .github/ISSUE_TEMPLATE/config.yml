@@ -3,9 +3,6 @@ contact_links:
   - name: Discord Chat
     url: https://discord.com/channels/1212897693450641498/1230231823674642513
     about: Ask questions and discuss with other Lilypad RPs and users in real time.
-
-blank_issues_enabled: true
-contact_links:
   - name: "Don't see your issue? Open a blank issue"
     url: https://github.com/Lilypad-Tech/lilypad/issues/new
     about: "If none of the templates fit your issue, open a blank issue using this link."
