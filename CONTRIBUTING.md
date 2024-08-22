@@ -118,6 +118,10 @@ If you submit a new issue requesting a feature or reporting a bug, please indica
 
 ---
 
-# License
+## License
 
 The Lilypad Network is an open source project under an [Apache 2.0 license](https://github.com/Lilypad-Tech/lilypad/blob/main/LICENSE).
+
+## Attribution
+
+This contribution guide was adapted from the Tokio contributing guide (https://github.com/tokio-rs/tokio/blob/master/CONTRIBUTING.md).
