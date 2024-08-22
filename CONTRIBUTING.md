@@ -10,7 +10,7 @@ This guide will help you get started with contributing to the Lilypad network. T
 
 ## Code of conduct
 
-We expect contributors to abide by our [Code of Conduct](GitHub/testContributionGuide/CODE_OF_CONDUCT.md). Violations of the code of conduct can be reported to the Lilypad team at contact@lilypad.tech.
+We expect contributors to abide by our [Code of Conduct](https://github.com/galaxyxtwo/testContributionGuide/blob/main/CODE_OF_CONDUCT.md). Violations of the code of conduct can be reported to the Lilypad team at contact@lilypad.tech.
 
 ## Contact on Discord
 
