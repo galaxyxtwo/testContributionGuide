@@ -6,6 +6,8 @@ body:
     attributes:
       value: |
         Thanks for taking the time to request this feature!
+  - type: textarea
+    id: problem
     attributes:
       label: Describe the problem
       description: Please provide a clear and concise description the problem this feature would solve. The more information you can provide here, the better.
