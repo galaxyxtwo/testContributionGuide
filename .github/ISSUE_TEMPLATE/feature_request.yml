@@ -30,6 +30,6 @@ body:
       options:
         - nice to have
         - would make my life easier
-        - i cannot use Lilypad without it
+        - I cannot use Lilypad without it
     validations:
       required: true
