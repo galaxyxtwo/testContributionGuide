@@ -14,7 +14,7 @@ We expect contributors to abide by our [Code of Conduct](https://github.com/gala
 
 ## Contact on Discord
 
-Alerting the team to an issue: Bugs can be brought up in the [#i-need-help channel](https://discord.com/channels/1212897693450641498/1230231823674642513) in the Lilypad Discord. For Resource Providers and Job creators, please use the Ticketing format [here](https://docs.lilypad.tech/lilypad/hardware-providers/troubleshooting#dont-see-your-issue-below) to ensure a smooth exchange of info!
+We accept bug reports in the Lilypad Discord #i-need-help channel (https://discord.com/channels/1212897693450641498/1230231823674642513). For Resource Providers and Job creators, please use the ticketing format here (https://docs.lilypad.tech/lilypad/hardware-providers/troubleshooting#dont-see-your-issue-below) to ensure a smooth exchange of info. Alternatively, open an issue as described below.
 
 ## Issues
 
