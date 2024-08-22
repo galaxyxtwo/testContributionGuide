@@ -41,7 +41,7 @@ Contributors are encouraged to help one another make forward progress as much as
 
 ### Resolve an issue
 
-In the majority of cases, issues are resolved by opening a Pull Request. The process for opening and reviewing a Pull Request is similar to that of opening and triaging issues, but carries with it a necessary review and approval workflow that ensures that the proposed changes meet the minimal quality and functional guidelines of the Lilypad Network.
+In the majority of cases, pull requests resolve issues.  Pull requests require review and approval to ensure that proposed changes meet minimum quality and functional requirements to be accepted into the Lilypad code base.
 
 ## Pull requests
 
