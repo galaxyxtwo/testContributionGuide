@@ -4,9 +4,9 @@ Thanks for your interest in contributing to the Lilypad Network! Welcome, we are
 
 There are opportunities to contribute to the Lilypad network at most levels of the stack. It doesn't matter you’re a experienced developer or just starting out, we can use your help!
 
-For any questions, check out the [Lilypad docs](https://docs.lilypad.tech/lilypad) and join our [Discord] (https://lilypad.team/discord). Feel free to open a question in the [#i-need-help channel] (https://discord.com/channels/1212897693450641498/1230231823674642513).
+For any questions, check out the [Lilypad docs](https://docs.lilypad.tech/lilypad) and join our [Discord](https://lilypad.team/discord). Feel free to open a question in the [#i-need-help channel](https://discord.com/channels/1212897693450641498/1230231823674642513).
 
-This guide will help you get started with contributing to the Lilypad network. There are a variety of ways to get involved in the network! Feel free to contact our team through the [Lilypad Discord] (https://lilypad.team/discord) to bring up problems and ask questions. In order to bring up or help solve a bug, contact our team and open a github issue. Our team will review the issue, look to see if the work is already in progress, and then finalize whether or not this PR should be merged.
+This guide will help you get started with contributing to the Lilypad network. There are a variety of ways to get involved in the network! Feel free to contact our team through the [Lilypad Discord](https://lilypad.team/discord) to bring up problems and ask questions. In order to bring up or help solve a bug, contact our team and open a github issue. Our team will review the issue, look to see if the work is already in progress, and then finalize whether or not this PR should be merged.
 
 ## Code of conduct
 
@@ -14,7 +14,7 @@ We expect contributors to abide by our [Code of Conduct](GitHub/testContribution
 
 ## Contact on Discord
 
-Alerting the team to an issue: Bugs can be brought up in the [#i-need-help channel] (https://discord.com/channels/1212897693450641498/1230231823674642513) in the Lilypad Discord. For Resource Providers and Job creators, please use the Ticketing format [here] (https://docs.lilypad.tech/lilypad/hardware-providers/troubleshooting#dont-see-your-issue-below) to ensure a smooth exchange of info!
+Alerting the team to an issue: Bugs can be brought up in the [#i-need-help channel](https://discord.com/channels/1212897693450641498/1230231823674642513) in the Lilypad Discord. For Resource Providers and Job creators, please use the Ticketing format [here](https://docs.lilypad.tech/lilypad/hardware-providers/troubleshooting#dont-see-your-issue-below) to ensure a smooth exchange of info!
 
 ## Issues
 
@@ -49,7 +49,7 @@ Pull requests are how changes are made to the code and docs in the Lilypad Netwo
 
 Pull requests of any size are greatly appreciated. To stay aligned with our team, we request that contributors first open an issue describing any proposed, non-trivial change to get feedback and a check whether the work is likely to be merged.
 
-We encourage the community to review any PR on any repo in the [Lilypad GitHub organization] (https://github.com/Lilypad-Tech)!
+We encourage the community to review any PR on any repo in the [Lilypad GitHub organization](https://github.com/Lilypad-Tech)!
 
 *Note:* any pull request created for an issue that already has someone else assigned **will be closed without review**.
 
@@ -73,11 +73,11 @@ The last part is a comment. You could add something like “git signing key” i
 
 You’ll be asked where you want to store the key and if you want to protect it with a passphrase. Adding a passphrase is more secure, but you will need to enter it each time you commit or set up an agent to help with that.
 
-You will also need to configure `git` to use the signing key. See this [guide] https://vanjacosic.com/posts/sign-your-git-commits-using-ssh-keys/#prepare-git-for-signing for `git` configuration options.
+You will also need to configure `git` to use the signing key. See this [guide](https://vanjacosic.com/posts/sign-your-git-commits-using-ssh-keys/#prepare-git-for-signing) for `git` configuration options.
 
 **Upload public key to GitHub**
 
-After creating the key pair, upload the public key to GitHub. See this [guide] https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#adding-a-new-ssh-key-to-your-account and make sure to select “Signing Key” for the key type.
+After creating the key pair, upload the public key to GitHub. See this [guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#adding-a-new-ssh-key-to-your-account) and make sure to select “Signing Key” for the key type.
 
 **Verify configuration**
 
